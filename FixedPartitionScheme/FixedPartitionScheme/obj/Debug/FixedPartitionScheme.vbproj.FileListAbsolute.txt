@@ -1,0 +1,23 @@
+\\zorak2\users$\s1134475\my documents\visual studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\bin\Debug\FixedPartitionScheme.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\bin\Debug\FixedPartitionScheme.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\bin\Debug\FixedPartitionScheme.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\bin\Debug\FixedPartitionScheme.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\bin\Debug\FixedPartitionScheme.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.vbprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.vbproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.xml
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.FormSimulation.resources
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\bin\Debug\FixedPartitionScheme.exe.config
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.exe
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.xml
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.pdb
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\bin\Debug\FixedPartitionScheme.exe
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\bin\Debug\FixedPartitionScheme.pdb
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\bin\Debug\FixedPartitionScheme.xml
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.vbprojResolveAssemblyReference.cache
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.FormSimulation.resources
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.Resources.resources
+\\zorak2\users$\s1134475\My Documents\Visual Studio 2015\Projects\Fixed Partition Scheme Project\FixedPartitionScheme\FixedPartitionScheme\FixedPartitionScheme\obj\Debug\FixedPartitionScheme.vbproj.GenerateResource.Cache
